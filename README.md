@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="aurak_logo.png" width="180"/>
+</p>
+
 # 🎓 University Projects Portfolio – Ali Saeed
 
-This repository contains all my university projects during my AI degree at AURAK.
+This repository contains all my university projects during my AI degree at AURAK (American University of Ras Al Khaimah).
 
 ## Subjects
 

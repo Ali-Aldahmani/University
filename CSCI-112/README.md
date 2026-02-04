@@ -21,11 +21,8 @@ The main topics I learned include:
 
 As part of this course, I completed two practical projects to apply what I learned:
 
-1. **Food Order Application**  
+1. **Turbo Taste Program**  
    A console program that simulates ordering food from a restaurant, calculates the total bill including delivery fee and VAT.
-
-2. **Turbo Taste Program**  
-   A menu-based C++ application that uses functions and conditions to interact with the user and calculate totals.
 
 These projects helped me understand how to turn logic into working programs.
 

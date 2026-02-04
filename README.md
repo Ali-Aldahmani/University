@@ -4,10 +4,8 @@ This repository contains all my university projects during my AI degree at AURAK
 
 ## Subjects
 
-- CSCI232 – Discrete Thinking (Python, Graphs, Trees)
+- CSCI232 – Discrete Thinking
 - OOP – Java Programming
-- Physics
-- AI & Data Science Projects
 
 Each folder contains assignments, mini-projects, and reports.
 

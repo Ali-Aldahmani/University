@@ -49,17 +49,7 @@ All concepts are implemented from scratch or validated using NumPy's highly opti
 
 Feel free to explore the folders below to see both the mathematical proofs and the Python implementations:
 
-```text
-📦 linear-algebra-portfolio
- ┣ 📂 01_vectors_and_matrices
- ┃ ┗ 📜 matrix_operations.py
- ┣ 📂 02_systems_of_equations
- ┃ ┗ 📜 gaussian_elimination.py
- ┣ 📂 03_eigen_theory
- ┃ ┗ 📜 eigenvectors_numpy.py
- ┗ 📜 README.md
-```
 <p align="center">
-<em>"Mathematics is the language in which God has written the universe."</em>
-— Galileo Galilei
+<em>"Pure mathematics is, in its way, the poetry of logical ideas.."</em>
+— Albert Einstein
 </p>

@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-Welcome to my Linear Algebra repository! I'm Ali Aldahmani, and this space serves as a comprehensive collection of my notes, algorithms, and code implementations. It bridges the gap between theoretical mathematics and computational application, acting as a foundation for my work in Artificial Intelligence.
+Welcome to my Linear Algebra repository! This space serves as a comprehensive collection of my notes, algorithms, and code implementations. It bridges the gap between theoretical mathematics and computational application, acting as a foundation for my work in Artificial Intelligence.
 
 ---
 

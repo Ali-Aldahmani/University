@@ -20,6 +20,11 @@ The knowledge in this repository is synthesized from academic coursework and ext
 * 📖 **Linear Algebra: Theory, Intuition, Code (Mike X Cohen PhD)** - *[Optional: Add a brief note on what this book helped you understand, e.g., "Great for understanding vector spaces and Python applications."]*
 * 📖 **Linear Algebra and Its Applications (Gilbert Strang)** - *[Optional: Add a brief note on what this book helped you understand, e.g., "Excellent foundation for theoretical concepts and matrix operations."]*
 
+### Online Certifications & Courses
+* 🎓 **Mathematics for Machine Learning and Data Science Specialization**
+  * **Provider:** DeepLearning.AI
+  * **Instructor:** Luis Serrano
+  * **Focus:** Course 1 - Linear Algebra for Machine Learning and Data Science.
 ---
 
 ## 🚀 Core Topics Explored
